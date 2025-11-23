@@ -156,14 +156,7 @@ Visualizations included:
 
 - `data_imdb_sample.csv` (optional) – a small sample of the IMDb dataset for demonstration
 
-- `reports/IMDb_Sentiment_Report.pdf` (optional) – project report with summary and visuals
 
 ---
 
-## 🚀 How to Run the Project
 
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/USERNAME/imdb-sentiment-analysis-nlp.git
-   cd imdb-sentiment-analysis-nlp
